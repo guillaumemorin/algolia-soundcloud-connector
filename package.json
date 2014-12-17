@@ -1,0 +1,19 @@
+{
+  "name": "algolia-soundcloud-connector",
+  "version": "1.0.0",
+  "description": "soundcloud connector to algolia's servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test_index.js"
+  },
+  "keywords": [
+    "algolia",
+    "soundcloud"
+  ],
+  "author": "Guillaume Morin",
+  "license": "ISC",
+  "dependencies": {
+    "algolia-search": "^1.7.0",
+    "soundclouder": "^0.8.1"
+  }
+}
