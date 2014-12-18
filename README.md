@@ -1,7 +1,11 @@
 algolia-soundcloud-connector
 ============================
-
 node connector to send soundcloud data on algolia's servers
+
+**Table of Contents**
+
+- [Installation](#installation)
+- [Configuration](#configuration)
 
 ## Installation
 
