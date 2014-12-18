@@ -23,7 +23,7 @@ Then you can `require` it:
 ## Configuration
 
 You first need to set your Algolia and Soundcloud credentials in conf.js
-You can find them on [your Algolia account](http://www.algolia.com/users/edit) and on your [soundcloud developer account](http://soundcloud.com/you/apps).
+You can find them on [your Algolia account](http://www.algolia.com/users/edit) and on your [Soundcloud developer account](http://soundcloud.com/you/apps).
     
 	soundcloud: {
 		client_id: 'CLIENT_ID',
