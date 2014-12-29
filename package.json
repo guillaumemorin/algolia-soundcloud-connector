@@ -1,8 +1,8 @@
 {
   "name": "algolia-soundcloud-connector",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "soundcloud connector to algolia's servers",
-  "main": "index.js",
+  "main": "./src/algolia_soundcloud_connector.js",
   "scripts": {
     "test": "node test/test_index.js"
   },
