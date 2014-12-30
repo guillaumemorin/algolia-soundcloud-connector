@@ -1,6 +1,6 @@
 {
   "name": "algolia-soundcloud-connector",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "soundcloud connector to algolia's servers",
   "main": "./src/algolia_soundcloud_connector.js",
   "scripts": {
@@ -15,5 +15,17 @@
   "dependencies": {
     "algolia-search": "^1.7.0",
     "soundclouder": "^0.8.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guillaumemorin/algolia-soundcloud-connector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guillaumemorin/algolia-soundcloud-connector/issues"
+  },
+  "homepage": "https://github.com/guillaumemorin/algolia-soundcloud-connector"
 }
