@@ -49,7 +49,7 @@ You can get one with algolia-soundcloud-connector auth method if you already hav
 
 Once you get your Access Token, you can set it with the setAccessToken method below and pass as a callback the sendData method (with the soundcloud api method you want to get data from) to send soundcloud data to Algolia' server.
 
-	var connector = require('algolia_soundcloud_connector.js');
+	var connector = require('algolia-soundcloud-connector');
 	connector.setAccessToken('ACCESS_TOKEN', connector.sendData, '/me/followers');
 	
 All soundcloud api methods are listed on [soundcloud api console](https://developers.soundcloud.com/console/) 
