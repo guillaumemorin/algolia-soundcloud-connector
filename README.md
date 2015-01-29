@@ -12,6 +12,7 @@ node connector to send soundcloud data on algolia's servers
 The recommended way is through NPM
 
     $ npm install algolia-soundcloud-connector
+https://www.npmjs.com/package/algolia-soundcloud-connector
 
 Otherwise, you can check it in your repository and then expose it:
 
