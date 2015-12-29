@@ -1,7 +1,7 @@
 algolia-soundcloud-connector
 ============================
 
-[![NPM Downloads][downloads-image]][https://www.npmjs.com/package/algolia-soundcloud-connector]
+[![NPM Downloads][http://img.shields.io/npm/v/reflux.svg]][https://www.npmjs.com/package/algolia-soundcloud-connector]
 
 node connector to send soundcloud data on algolia's servers
 https://www.npmjs.com/package/algolia-soundcloud-connector
